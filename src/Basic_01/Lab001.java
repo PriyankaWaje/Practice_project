@@ -1,2 +1,4 @@
-package Basic_01;public class Lab001 {
+package Basic_01;
+
+public class Lab001 {
 }
